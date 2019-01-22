@@ -13,5 +13,6 @@ As stated above the main reason is to provide simple examples
 ## Deployment
 
 This is a simple web project
+Added more tests
 
 ## How To Contribute
